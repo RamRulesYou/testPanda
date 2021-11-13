@@ -78,7 +78,7 @@
             android:text="Shop Owner" />
 
         <RadioButton
-            android:id="@+id/sinRadCus"
+            android:id="@+id/sinRadCustomer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Customer" />
