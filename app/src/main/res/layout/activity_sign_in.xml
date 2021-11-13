@@ -8,7 +8,7 @@
 
 
     <TextView
-        android:id="@+id/editTextTextPersonName2"
+        android:id="@+id/sinTitle"
         android:layout_width="293dp"
         android:layout_height="44dp"
         android:layout_marginTop="40dp"
@@ -32,7 +32,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.561"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName2" />
+        app:layout_constraintTop_toBottomOf="@+id/sinTitle" />
 
 
     <EditText
@@ -72,13 +72,13 @@
         app:layout_constraintTop_toBottomOf="@+id/sigEmail">
 
         <RadioButton
-            android:id="@+id/radioButton4"
+            android:id="@+id/sinRadShop"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Shop Owner" />
 
         <RadioButton
-            android:id="@+id/radioButton5"
+            android:id="@+id/sinRadCus"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Customer" />
