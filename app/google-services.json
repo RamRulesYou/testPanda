@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434478003156",
+    "project_id": "elipanda-37fe0",
+    "storage_bucket": "elipanda-37fe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434478003156:android:40bb117f7b1d85b2a01c41",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434478003156-qbm54glmk2qmu9b89a6fag852spdk5ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlsGci3ls1LGLQBKPz2P1bLPImz-y1U-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434478003156-qbm54glmk2qmu9b89a6fag852spdk5ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
